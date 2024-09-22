@@ -3986,7 +3986,7 @@
       "files": [
         {
           "filename": "plugins/ultimate",
-          "archivePath": "plugins/ultimate",
+          "archivePath": "plugins",
           "isDirectory": true
         },
         {
